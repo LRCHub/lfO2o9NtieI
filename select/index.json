@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "shiosai",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-02-07T03:42:51.450874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "shiosai",
+      "artist": "mayumi itsuwa",
+      "has_synced": false,
+      "path": "select/01_shiosai_mayumi_itsuwa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shiosai Chang",
+      "artist": "Spitz",
+      "has_synced": false,
+      "path": "select/02_Shiosai_Chang_Spitz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "潮騒 - Shiosai",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/03_潮騒_-_Shiosai_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shiosai",
+      "artist": "Matsuda Seiko",
+      "has_synced": false,
+      "path": "select/04_Shiosai_Matsuda_Seiko.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shiosai",
+      "artist": "Round Table Featuring Nino",
+      "has_synced": false,
+      "path": "select/05_Shiosai_Round_Table_Featuring_Nino.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "潮騒 - Shiosai",
+      "artist": "Nino, ROUND TABLE",
+      "has_synced": true,
+      "path": "select/06_潮騒_-_Shiosai_Nino,_ROUND_TABLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shiosai no Memory",
+      "artist": "Haruko Amano(Koizumi Kyoko)",
+      "has_synced": true,
+      "path": "select/07_Shiosai_no_Memory_Haruko_Amano(Koizumi_Kyoko).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shiosai",
+      "artist": "RYUSENKEI",
+      "has_synced": false,
+      "path": "select/08_Shiosai_RYUSENKEI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiosai (潮騒)",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": true,
+      "path": "select/09_Shiosai_(潮騒)_ROUND_TABLE_featuring_Nino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "shiosai",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_shiosai_TOMOO.txt"
+    }
+  ]
+}
